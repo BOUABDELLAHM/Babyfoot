@@ -1,0 +1,23 @@
+<!---- A FAIRE ----!>
+
+// Inscription
+
+1) Pas le même pseudo,
+2) Mot de passe de 8 caractères, caractères spéciaux, majuscules et minuscules.
+
+// Connexion
+
+1) Connexion par mail et pseudo.
+
+// Profil
+
+1) Edition avec JavaScript.
+
+// Réservation
+
+1) Afficher la date correctement
+2) Annuler Réservation
+
+// Admin
+
+1) Supprimer utilisateur

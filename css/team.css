@@ -1,0 +1,37 @@
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  color: grey;
+}
+
+.button_eleve {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #035f91;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button_eleve:hover {
+  background-color: #555;
+}
